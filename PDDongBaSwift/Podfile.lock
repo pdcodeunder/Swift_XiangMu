@@ -1,0 +1,15 @@
+PODS:
+  - Kingfisher (2.4.2)
+  - SwiftHTTP (1.0.5)
+
+DEPENDENCIES:
+  - Kingfisher
+  - SwiftHTTP
+
+SPEC CHECKSUMS:
+  Kingfisher: 05bf8d04408aaa70fcd2c8c81b9f1d0f1ad313dd
+  SwiftHTTP: edb45e72f27d1d95d328d2b2c16a61aa94f1e9f7
+
+PODFILE CHECKSUM: 0ff980b79db823be8b9d58573bf702016d0eace8
+
+COCOAPODS: 1.0.1
